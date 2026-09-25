@@ -1,0 +1,45 @@
+{
+  "contact": "https://t.me/mhsanaeibot",
+  "sponsors": [
+    {
+      "id": "advertise-here",
+      "name": "3X-UI Ads",
+      "enable": false,
+      "slots": ["dashboard", "sidebar", "page", "login"],
+      "from": "2026-09-27T00:00:00Z",
+      "until": "2027-11-01T00:00:00Z",
+      "logo": "advertise.png",
+      "title": {
+        "en": "Advertise here — reach 3X-UI server admins",
+        "fa": "اینجا تبلیغ کنید — دیده شدن توسط ادمین‌های 3X-UI",
+        "ar": "أعلن هنا — وصول إلى مسؤولي خوادم 3X-UI",
+        "es": "Anúnciate aquí — llega a los administradores de 3X-UI",
+        "id": "Beriklan di sini — jangkau admin server 3X-UI",
+        "ja": "ここに広告を掲載 — 3X-UI のサーバー管理者にリーチ",
+        "pt": "Anuncie aqui — alcance os administradores do 3X-UI",
+        "ru": "Реклама здесь — охват администраторов 3X-UI",
+        "tr": "Burada reklam verin — 3X-UI yöneticilerine ulaşın",
+        "uk": "Реклама тут — охоплення адміністраторів 3X-UI",
+        "vi": "Quảng cáo tại đây — tiếp cận quản trị viên 3X-UI",
+        "zh-CN": "在此投放广告 — 触达 3X-UI 服务器管理员",
+        "zh-TW": "在此刊登廣告 — 觸及 3X-UI 伺服器管理員"
+      },
+      "text": {
+        "en": "Put your VPS, hosting or domain brand in front of the admins who use 3X-UI every day. Message us for slots and pricing.",
+        "fa": "برند VPS، هاستینگ یا دامنه‌ی خود را جلوی چشم ادمین‌هایی بگذارید که هر روز با 3X-UI کار می‌کنند. برای جایگاه‌ها و قیمت پیام دهید.",
+        "ar": "اعرض علامتك التجارية للخوادم أو الاستضافة أو النطاقات أمام المسؤولين الذين يستخدمون 3X-UI يوميًا. راسلنا لمعرفة المواضع والأسعار.",
+        "es": "Muestra tu marca de VPS, hosting o dominios a los administradores que usan 3X-UI a diario. Escríbenos para espacios y precios.",
+        "id": "Tampilkan merek VPS, hosting, atau domain Anda kepada admin yang memakai 3X-UI setiap hari. Hubungi kami untuk slot dan harga.",
+        "ja": "毎日 3X-UI を使う管理者に VPS・ホスティング・ドメインのブランドを届けましょう。掲載枠と料金はお問い合わせください。",
+        "pt": "Mostre sua marca de VPS, hospedagem ou domínios aos administradores que usam o 3X-UI todos os dias. Fale conosco sobre espaços e preços.",
+        "ru": "Покажите свой бренд VPS, хостинга или доменов администраторам, которые работают с 3X-UI каждый день. Напишите нам о местах и ценах.",
+        "tr": "VPS, hosting veya alan adı markanızı 3X-UI'ı her gün kullanan yöneticilere gösterin. Yerleşimler ve fiyatlar için bize yazın.",
+        "uk": "Покажіть свій бренд VPS, хостингу чи доменів адміністраторам, які працюють з 3X-UI щодня. Напишіть нам щодо місць і цін.",
+        "vi": "Đưa thương hiệu VPS, hosting hoặc tên miền của bạn đến các quản trị viên dùng 3X-UI hằng ngày. Nhắn cho chúng tôi để biết vị trí và giá.",
+        "zh-CN": "让每天使用 3X-UI 的管理员看到您的 VPS、主机或域名品牌。联系我们了解展示位与价格。",
+        "zh-TW": "讓每天使用 3X-UI 的管理員看到您的 VPS、主機或網域品牌。聯絡我們了解展示位與價格。"
+      },
+      "link": "https://t.me/mhsanaeibot"
+    }
+  ]
+}
