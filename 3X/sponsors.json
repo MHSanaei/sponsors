@@ -1,0 +1,45 @@
+{
+  "contact": "https://t.me/mhsanaeibot",
+  "sponsors": [
+    {
+      "id": "nexora",
+      "name": "Nexora Panel",
+      "enable": true,
+      "slots": ["dashboard", "page", "login"],
+      "from": "2026-10-13T00:00:00Z",
+      "until": "2026-10-27T00:00:00Z",
+      "logo": "nexorra.png",
+      "title": {
+        "en": "Nexora Panel — 40% off the annual plan",
+        "fa": "پنل Nexora — ۴۰٪ تخفیف اشتراک سالانه",
+        "ar": "لوحة Nexora — خصم 40% على الاشتراك السنوي",
+        "es": "Nexora Panel — 40 % de descuento en el plan anual",
+        "id": "Nexora Panel — diskon 40% paket tahunan",
+        "ja": "Nexora Panel — 年間プランが 40% オフ",
+        "pt": "Nexora Panel — 40% de desconto no plano anual",
+        "ru": "Nexora Panel — скидка 40% на годовой план",
+        "tr": "Nexora Panel — yıllık planda %40 indirim",
+        "uk": "Nexora Panel — знижка 40% на річний план",
+        "vi": "Nexora Panel — giảm 40% gói năm",
+        "zh-CN": "Nexora Panel — 年度订阅立减 40%",
+        "zh-TW": "Nexora Panel — 年度訂閱立減 40%"
+      },
+      "text": {
+        "en": "Enter code SANAEI when buying an annual plan. Limited-time offer.",
+        "fa": "هنگام خرید اشتراک سالانه، کد SANAEI را وارد کنید. فقط برای مدت محدود.",
+        "ar": "أدخل الرمز SANAEI عند شراء الاشتراك السنوي. عرض لفترة محدودة.",
+        "es": "Introduce el código SANAEI al comprar el plan anual. Oferta por tiempo limitado.",
+        "id": "Masukkan kode SANAEI saat membeli paket tahunan. Penawaran waktu terbatas.",
+        "ja": "年間プラン購入時にコード SANAEI を入力してください。期間限定。",
+        "pt": "Use o código SANAEI ao comprar o plano anual. Oferta por tempo limitado.",
+        "ru": "Введите код SANAEI при покупке годового плана. Предложение ограничено по времени.",
+        "tr": "Yıllık planı satın alırken SANAEI kodunu girin. Sınırlı süreli teklif.",
+        "uk": "Введіть код SANAEI під час купівлі річного плану. Пропозиція обмежена в часі.",
+        "vi": "Nhập mã SANAEI khi mua gói năm. Ưu đãi có thời hạn.",
+        "zh-CN": "购买年度订阅时输入优惠码 SANAEI。限时优惠。",
+        "zh-TW": "購買年度訂閱時輸入優惠碼 SANAEI。限時優惠。"
+      },
+      "link": "https://nexora-panel.org/ads/3x-ui"
+    }
+  ]
+}
