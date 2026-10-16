@@ -40,6 +40,46 @@
         "zh-TW": "購買年度訂閱時輸入優惠碼 SANAEI。限時優惠。"
       },
       "link": "https://nexora-panel.org/ads/3x-ui"
+    },
+    {
+      "id": "esim-now",
+      "name": "eSIM.Now",
+      "enable": true,
+      "slots": ["dashboard", "login"],
+      "from": "2026-10-28T00:00:00Z",
+      "until": "2026-11-11T00:00:00Z",
+      "logo": "now.png",
+      "title": {
+      "en": "eSIM.Now travel eSIM data plans, install instantly, no roaming fees.",
+      "fa": "بسته‌های اینترنت eSIM مسافرتی eSIM.Now، نصب فوری، بدون هزینه رومینگ.",
+      "ar": "باقات بيانات eSIM للسفر من eSIM.Now، تفعيل فوري، دون رسوم تجوال.",
+      "es": "Planes de datos eSIM de viaje de eSIM.Now: instalación inmediata, sin cargos de roaming.",
+      "id": "Paket data eSIM perjalanan dari eSIM.Now, pasang seketika, tanpa biaya roaming.",
+      "ja": "eSIM.Nowの旅行用eSIMデータプラン。すぐに設定完了、ローミング料金不要。",
+      "pt": "Planos de dados eSIM de viagem da eSIM.Now: instalação imediata, sem taxas de roaming.",
+      "ru": "eSIM-тарифы для путешествий от eSIM.Now: мгновенная установка, без платы за роуминг.",
+      "tr": "eSIM.Now seyahat eSIM veri paketleri: anında kurulum, roaming ücreti yok.",
+      "uk": "eSIM-тарифи для подорожей від eSIM.Now: миттєве встановлення, без плати за роумінг.",
+      "vi": "Gói dữ liệu eSIM du lịch của eSIM.Now, cài đặt tức thì, không phí chuyển vùng.",
+      "zh-CN": "eSIM.Now 中国eSIM套餐，新加坡家宽IP，解锁AI，8折优惠码：AI20",
+      "zh-TW": "eSIM.Now 旅行eSIM流量套餐，即刻安裝，無需任何漫遊費用"
+      },
+      "text": {
+      "en": "Limited-time offer: Enjoy 20% off with promo code AI20.",
+      "fa": "پیشنهاد ویژه با زمان محدود: با کد تخفیف AI20 از ۲۰٪ تخفیف بهره‌مند شوید.",
+      "ar": "عرض لفترة محدودة: استمتع بخصم 20% باستخدام رمز الخصم AI20.",
+      "es": "Oferta por tiempo limitado: disfruta de un 20 % de descuento con el código promocional AI20.",
+      "id": "Penawaran terbatas: Nikmati diskon 20% dengan kode promo AI20.",
+      "ja": "期間限定オファー：プロモコード「AI20」で20%オフ。",
+      "pt": "Oferta por tempo limitado: aproveite 20% de desconto com o código promocional AI20.",
+      "ru": "Ограниченное предложение: скидка 20% по промокоду AI20.",
+      "tr": "Sınırlı süreli fırsat: AI20 promosyon koduyla %20 indirimin keyfini çıkarın.",
+      "uk": "Обмежена пропозиція: знижка 20% за промокодом AI20.",
+      "vi": "Ưu đãi có thời hạn: Giảm 20% với mã khuyến mãi AI20.",
+      "zh-CN": "解锁所有AI，电信、联通双网，5G网络最高网速500Mbps",
+      "zh-TW": "限時優惠：立享 8 折優惠，優惠碼：AI20"
+      },
+      "link": "https://esim.now/zh/esim/china/100gb-60-days-sg-ip?ref=AI20"
     }
   ]
 }
